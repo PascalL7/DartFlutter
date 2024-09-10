@@ -1,2 +1,2 @@
 # DartFlutter
-various dev in test
+various dev for testing Dart and Flutter
